@@ -1,2 +1,0 @@
-# Spacemax
-Space max
